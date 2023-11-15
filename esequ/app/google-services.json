@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114030798534",
+    "project_id": "esesqu",
+    "storage_bucket": "esesqu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114030798534:android:2d72b02025a37bf07fd9c7",
+        "android_client_info": {
+          "package_name": "com.example.esesqu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFSmtIAWx44HP3gBOq56PaY_CKa-ui5es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
